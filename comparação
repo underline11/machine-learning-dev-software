@@ -1,0 +1,49 @@
+Comparação da Popularidade das Linguagens por Estação do Ano
+Metodologia
+Agrupamento dos Dados por Estação: Os dados foram agrupados por estação do ano usando as datas disponíveis. Cada estação é representada da seguinte forma:
+
+Primavera: Março a Maio
+Verão: Junho a Agosto
+Outono: Setembro a Novembro
+Inverno: Dezembro a Fevereiro
+Cálculo da Média de Popularidade: Para cada linguagem, calculamos a média semanal de popularidade em cada estação para identificar padrões sazonais.
+
+Criação de Gráficos: Gráficos de comparação foram gerados para visualizar a popularidade média das linguagens por estação.
+
+Gráficos de Popularidade por Estação
+Popularidade Média por Estação
+
+Observações:
+
+Python:
+
+Primavera: A popularidade do Python tende a ser mais alta na primavera. Isso pode ser devido ao início de novos cursos e treinamentos que introduzem a linguagem a novos alunos.
+Verão: Há uma leve queda na popularidade durante o verão, possivelmente devido a um menor ritmo de trabalho e cursos acadêmicos.
+Outono: A popularidade do Python aumenta novamente no outono, possivelmente com o início de novos semestres acadêmicos e projetos.
+Inverno: A popularidade permanece relativamente estável no inverno, sem grandes variações.
+Java:
+
+Primavera: A popularidade do Java é relativamente estável na primavera, sem grandes picos ou quedas.
+Verão: Observa-se um leve aumento na popularidade do Java durante o verão, possivelmente devido a projetos e desenvolvimentos de software que não são afetados pela sazonalidade acadêmica.
+Outono: A popularidade do Java tende a aumentar no outono, semelhante ao Python, possivelmente com o início de novos ciclos de desenvolvimento e adoção de tecnologias.
+Inverno: Há uma leve diminuição na popularidade do Java no inverno, possivelmente devido a um menor número de novos projetos e desenvolvimento de software.
+C++:
+
+Primavera: A popularidade do C++ é mais baixa na primavera, o que pode estar relacionado a menor atividade acadêmica ou novos projetos.
+Verão: A popularidade do C++ tende a ser mais alta durante o verão, possivelmente devido a projetos de longo prazo ou atividades acadêmicas contínuas.
+Outono: Observa-se uma leve diminuição na popularidade do C++ no outono, possivelmente devido a uma menor atividade em alguns setores específicos.
+Inverno: A popularidade do C++ tende a ser mais estável no inverno, semelhante ao inverno.
+Análise das Variações Sazonais
+Python: Mostra uma clara variação sazonal, com picos na primavera e no outono. Isso reflete um padrão de aumento associado ao início de novos ciclos acadêmicos e cursos.
+
+Java: Apresenta variações mais sutis, com um leve aumento no verão e outono. A popularidade parece ser menos afetada por mudanças sazonais em comparação com o Python.
+
+C++: Exibe uma variação sazonal moderada, com maior popularidade no verão e estabilidade no inverno. A popularidade do C++ não é tão sensível às variações sazonais quanto o Python.
+
+Conclusão
+A comparação da popularidade das linguagens de programação nas diferentes estações do ano revela:
+
+Python: A linguagem apresenta variações sazonais significativas, com aumento da popularidade na primavera e no outono.
+Java: Mostra uma estabilidade relativa com variações menores em comparação com Python e C++.
+C++: Tem uma popularidade relativamente constante, com pequenas variações sazonais.
+Essas observações ajudam a entender como fatores sazonais podem influenciar a popularidade das linguagens de programação e podem informar decisões sobre o timing de lançamentos de novos recursos ou o foco em áreas de desenvolvimento durante diferentes períodos do ano.
