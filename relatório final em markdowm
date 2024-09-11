@@ -1,0 +1,51 @@
+Relatório Final: Análise de Tendências Temporais da Popularidade das Linguagens de Programação
+Introdução
+Este relatório apresenta uma análise detalhada da popularidade das linguagens de programação Python, Java e C++ entre abril de 2019 e abril de 2024. Utilizando dados de popularidade semanais, o objetivo da análise é explorar as tendências de cada linguagem, identificar padrões sazonais e examinar variações de longo prazo.
+
+Metodologia
+Os dados foram obtidos do arquivo trend_over_time.csv, que contém registros semanais da popularidade das linguagens Python, Java e C++. As seguintes técnicas de análise foram aplicadas:
+
+Médias Móveis: Para suavizar as séries temporais e identificar tendências de longo prazo.
+Decomposição Aditiva: Para separar os componentes de tendência, sazonalidade e resíduo.
+Análise Sazonal: Para identificar padrões sazonais e variações anuais.
+Resultados e Análise
+1. Evolução da Popularidade
+Gráfico da Evolução da Popularidade
+
+Observações:
+
+Python: A popularidade do Python cresceu de forma consistente ao longo do período analisado. A linha de tendência mostra um aumento contínuo, refletindo a crescente aceitação e uso da linguagem em diversas áreas.
+Java: A popularidade do Java apresentou variações significativas com vários picos e quedas, indicando flutuações na sua adoção.
+C++: A popularidade do C++ foi relativamente estável, com algumas flutuações menores ao longo do tempo.
+2. Padrões Sazonais
+Gráficos de Decomposição
+
+Observações:
+
+Python: A análise de decomposição revela um componente sazonal claro, com padrões anuais distintos. Isso sugere que a popularidade do Python pode ser influenciada por ciclos anuais, como lançamentos de novas versões ou maior interesse em cursos e materiais educativos em certos períodos do ano.
+Java: A sazonalidade no Java é menos pronunciada. A análise mostra uma variação mais irregular, indicando que a popularidade do Java pode não estar tão sujeita a influências sazonais específicas.
+C++: A decomposição mostra um componente sazonal discreto para o C++, com uma popularidade relativamente constante ao longo do ano, sem padrões sazonais marcantes.
+3. Comparação da Popularidade por Período de Tempo
+Gráfico de Comparação de Popularidade
+
+Observações:
+
+Python: Em geral, o Python foi a linguagem mais popular durante o período analisado, superando Java e C++ em muitos momentos. Isso reflete a crescente adoção da linguagem em novos setores e a sua popularidade entre desenvolvedores e na educação.
+Java: Embora o Java tenha apresentado períodos de alta popularidade, sua popularidade foi mais variável, o que pode indicar ciclos de adoção ou mudanças na percepção de sua relevância no mercado.
+C++: A popularidade do C++ foi relativamente constante, com variações menores comparadas a Python e Java. Isso sugere um uso constante da linguagem, possivelmente em áreas específicas como sistemas embarcados e desenvolvimento de software de alto desempenho.
+4. Tendências de Longo Prazo
+Gráfico de Tendências de Longo Prazo
+
+Observações:
+
+Python: Mostra uma tendência clara de aumento na popularidade. A análise indica um crescimento contínuo e acelerado, destacando a popularidade crescente da linguagem em várias áreas de desenvolvimento e pesquisa.
+Java: Apresenta uma tendência mais errática, com períodos de crescimento e declínio. Isso pode refletir mudanças no uso da linguagem ou variações na demanda do mercado.
+C++: A tendência é relativamente estável, com pequenas variações. A popularidade do C++ não mostrou um crescimento acentuado, mas a estabilidade indica uma adoção constante da linguagem.
+Conclusões
+Evolução da Popularidade: Python tem mostrado um crescimento consistente, enquanto Java tem exibido variações significativas e C++ uma popularidade estável.
+Padrões Sazonais: Python apresenta uma sazonalidade clara com padrões anuais evidentes. Java e C++ têm padrões sazonais menos pronunciados, com variações mais sutis.
+Popularidade por Período de Tempo: Python foi frequentemente a linguagem mais popular, com Java e C++ mostrando variações de popularidade em diferentes períodos.
+Tendências de Longo Prazo: Python tem uma tendência de crescimento clara, Java apresenta uma tendência errática e C++ mostra uma tendência estável.
+Referências
+Dados: trend_over_time.csv
+Métodos: Análise de séries temporais com médias móveis e decomposição aditiva
